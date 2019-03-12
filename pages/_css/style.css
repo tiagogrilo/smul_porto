@@ -43,7 +43,7 @@
 }
 
 .flip-card-back {
-  background: url('../logos/pback.jpg');
+  background: url('../_assets/logos/pback.jpg');
   background-size: 200px;
   background-color: #6aa0f7;
   transform: rotateY(180deg);
